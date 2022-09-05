@@ -5,7 +5,7 @@ A Music Recomondation app using HTML,CSS,JavaScript and ReactJS
 
 ## Demo
 
-[Live view](https://musicRecommendationApp.sahitm1.repl.co) of the project.
+[Live view](https://musicrecommendationapp.netlify.app/) of the project.
 
 
 
